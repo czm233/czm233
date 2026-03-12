@@ -3,19 +3,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/czm">
+  <a href="https://github.com/czm233">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Hey+%F0%9F%91%8B%2C+I'm+czm;Full-Stack+Developer+from+Guangzhou;Node.js+%26+React+%26+Vue+Developer;AI+%2F+LLM+Integration+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/czm">
+  <a href="https://github.com/czm233">
     <img src="https://komarev.com/ghpvc/?username=czm&label=Profile%20Views&color=70a5fd&style=for-the-badge&labelColor=1a1b27" alt="Profile Views" />
   </a>
-  <a href="https://github.com/czm?tab=followers">
+  <a href="https://github.com/czm233?tab=followers">
     <img src="https://img.shields.io/github/followers/czm?logo=github&label=Followers&labelColor=1a1b27&color=bf91f3&style=for-the-badge" alt="Followers" />
   </a>
-  <a href="https://github.com/czm?tab=repositories">
+  <a href="https://github.com/czm233?tab=repositories">
     <img src="https://img.shields.io/github/stars/czm?logo=github&label=Stars&labelColor=1a1b27&color=38bdae&style=for-the-badge" alt="Stars" />
   </a>
 </p>
